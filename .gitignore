@@ -1,0 +1,8 @@
+platforms/
+plugins/
+node_modules/
+typings/
+hooks/
+.vscode/
+jsconfig.json
+package-lock.json
